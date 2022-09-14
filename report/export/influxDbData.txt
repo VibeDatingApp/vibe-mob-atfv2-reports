@@ -1,0 +1,14 @@
+launch_status failed=6 1663153070000000000
+launch_status broken=0 1663153070000000000
+launch_status passed=144 1663153070000000000
+launch_status skipped=0 1663153070000000000
+launch_status unknown=0 1663153070000000000
+launch_time duration=8555203 1663153070000000000
+launch_time min_duration=2079 1663153070000000000
+launch_time max_duration=491188 1663153070000000000
+launch_time sum_duration=3779097 1663153070000000000
+launch_problems bug._edit_profile._difference_between_preview_and_actual_answer.=2 1663153070000000000
+launch_problems bug._feed._member_is_not_displayed.=4 1663153070000000000
+launch_problems defect=6 1663153070000000000
+launch_retries retries=36 1663153070000000000
+launch_retries run=150 1663153070000000000
