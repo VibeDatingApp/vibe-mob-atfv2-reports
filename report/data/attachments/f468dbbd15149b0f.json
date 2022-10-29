@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeOther[contains(@name,\"What’s on the menu?\")]/following-sibling::XCUIElementTypeOther//XCUIElementTypeStaticText[@name]"
+}

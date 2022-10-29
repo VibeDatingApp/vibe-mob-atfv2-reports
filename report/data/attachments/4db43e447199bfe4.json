@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.view.View[contains(@content-desc,\"How often do you practice sports?\")]/android.widget.Button[@content-desc]"
+}

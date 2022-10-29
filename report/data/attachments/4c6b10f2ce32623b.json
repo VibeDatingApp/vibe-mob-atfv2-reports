@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeOther[@name=\"What I like to have around me\"]/following-sibling::XCUIElementTypeOther//XCUIElementTypeStaticText[@name]"
+}

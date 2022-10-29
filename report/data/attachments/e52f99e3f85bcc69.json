@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.view.View[contains(@content-desc,\"We need this to keep your account secure\")]/android.view.View"
+}

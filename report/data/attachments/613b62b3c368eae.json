@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.view.View[contains(@content-desc,\"Does your match have to be location independent?\")]/android.widget.Button[position() > 2]"
+}

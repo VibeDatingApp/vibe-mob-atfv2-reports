@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeOther[contains(@name,\"What is your highest education?\")]/following-sibling::XCUIElementTypeOther/XCUIElementTypeButton[@name]"
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeOther[@name=\"What gender are you looking for?\"]/following-sibling::XCUIElementTypeButton[@name]"
+}

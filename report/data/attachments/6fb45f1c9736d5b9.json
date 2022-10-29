@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeOther[contains(@name,\"Subtle\") and contains(@name,\"Direct\")]/following-sibling::XCUIElementTypeOther"
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeOther[contains(@name,\"Rational\") and contains(@name,\"Dreamy\")]/following-sibling::XCUIElementTypeOther"
+}

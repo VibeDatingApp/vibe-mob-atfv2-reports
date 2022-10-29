@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeOther[contains(@name,\"Organized\") and contains(@name,\"Unpredictable\")]/following-sibling::XCUIElementTypeOther"
+}

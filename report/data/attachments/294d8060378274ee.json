@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.view.View[@content-desc=\"My Favorite Quote\"]/following-sibling::android.widget.EditText[1]"
+}

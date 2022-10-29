@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeOther[contains(@name,\"What is your political preference?\")]/following-sibling::XCUIElementTypeButton[@name]"
+}

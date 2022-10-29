@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeStaticText[@name=\"My Favorite Quote\"]/following-sibling::XCUIElementTypeOther[1]/XCUIElementTypeTextField"
+}

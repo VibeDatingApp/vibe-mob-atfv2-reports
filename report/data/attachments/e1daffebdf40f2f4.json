@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeStaticText[@name=\"Select categories for a first date\"]/following-sibling::XCUIElementTypeOther//XCUIElementTypeImage[@name]"
+}

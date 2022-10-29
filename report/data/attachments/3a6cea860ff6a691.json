@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.view.View[@content-desc=\"Which interests do you have?\"]/following-sibling::android.widget.ScrollView/android.widget.ImageView[@content-desc]"
+}

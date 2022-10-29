@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeOther[contains(@name,\"We need this to keep your account secure\")]/../XCUIElementTypeOther[2]"
+}

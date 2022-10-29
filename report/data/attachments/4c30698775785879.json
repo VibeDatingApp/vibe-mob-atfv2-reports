@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeStaticText[@name=\"Which interests do you have?\"]/following-sibling::XCUIElementTypeOther//XCUIElementTypeImage[@name and @visible=\"true\"]"
+}

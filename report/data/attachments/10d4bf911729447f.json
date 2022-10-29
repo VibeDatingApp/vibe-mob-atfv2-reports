@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeStaticText[contains(@name,\"No profiles with these filter settings.\") and contains(@name,\"Change the filters to see more profiles\")]"
+}

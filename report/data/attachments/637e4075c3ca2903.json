@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeOther[contains(@name,\"What is your ethnicity?\")]/following-sibling::XCUIElementTypeButton[@name and @visible=\"true\"]"
+}

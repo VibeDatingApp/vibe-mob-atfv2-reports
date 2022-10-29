@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeOther[contains(@name,\"Does your match have to be location independent?\")]/following-sibling::XCUIElementTypeButton[position() > 2 and @name]"
+}

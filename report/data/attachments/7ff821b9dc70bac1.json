@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.view.View[contains(@content-desc,\"This is how it will appear in Vibe\")]/android.widget.EditText"
+}

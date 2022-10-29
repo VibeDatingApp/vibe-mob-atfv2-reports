@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeStaticText[@name=\"Occupation\"]/following-sibling::XCUIElementTypeOther[1]/XCUIElementTypeTextField"
+}

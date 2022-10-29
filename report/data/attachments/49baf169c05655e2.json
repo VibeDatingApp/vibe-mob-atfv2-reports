@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeWindow[1]//XCUIElementTypeOther[2]/XCUIElementTypeImage[5]"
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.view.View[contains(@content-desc,\"I consider myself\")]/android.widget.Button[position() < 4]"
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.view.View[@content-desc]/android.view.View[1]/android.widget.SeekBar[1]"
+}

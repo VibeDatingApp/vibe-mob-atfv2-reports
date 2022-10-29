@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.view.View[contains(@content-desc,\"Age\")][contains(@content-desc,\"Height\")][contains(@content-desc,\"Radius\")]"
+}

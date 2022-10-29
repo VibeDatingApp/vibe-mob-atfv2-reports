@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.view.View[contains(@content-desc,\"Unselect time slots you won’t be available:\")]/android.view.View[contains(@content-desc,\"S\")]"
+}

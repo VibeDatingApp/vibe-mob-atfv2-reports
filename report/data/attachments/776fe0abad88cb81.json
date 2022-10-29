@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeStaticText[@name=\"Do you have kids?\"]/following-sibling::XCUIElementTypeButton"
+}

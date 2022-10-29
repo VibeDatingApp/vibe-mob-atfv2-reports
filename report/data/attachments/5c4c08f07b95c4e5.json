@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.view.View[contains(@content-desc,\"What’s on the menu?\")]//android.view.View[@content-desc]"
+}

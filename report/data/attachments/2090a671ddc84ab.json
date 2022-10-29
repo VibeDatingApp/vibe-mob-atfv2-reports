@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeStaticText[@name=\"What is your star sign?\"]/following-sibling::XCUIElementTypeOther//XCUIElementTypeImage"
+}

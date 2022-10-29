@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeOther[contains(@name,\"What is your match's preferable star sign?\")]/following-sibling::XCUIElementTypeImage[@name and @visible=\"true\"]"
+}

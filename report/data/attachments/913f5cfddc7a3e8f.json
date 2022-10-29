@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeOther[contains(@name,\"Select which answer is most applicable to you.\")]/following-sibling::XCUIElementTypeOther//XCUIElementTypeStaticText[@name]"
+}
