@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//android.view.View[contains(@content-desc,\"When I am stressed out, I usually\")]"
-}

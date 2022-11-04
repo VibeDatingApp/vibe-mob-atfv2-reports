@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//android.view.View[contains(@content-desc,\"Intuitive\") and contains(@content-desc,\"Thoughtful\")]/android.widget.SeekBar[@content-desc]"
-}

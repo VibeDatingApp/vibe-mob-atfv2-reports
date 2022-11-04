@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//android.view.View[@content-desc=\"What is your star sign?\"]/following-sibling::android.view.View//android.widget.ImageView"
-}

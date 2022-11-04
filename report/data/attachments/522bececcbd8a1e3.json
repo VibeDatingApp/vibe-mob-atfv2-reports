@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//XCUIElementTypeOther[contains(@name,\"Should your partner have kids?\")]/following-sibling::XCUIElementTypeButton[@name and position() > last()-5]"
-}

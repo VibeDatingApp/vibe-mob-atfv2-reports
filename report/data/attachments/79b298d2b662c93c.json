@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//XCUIElementTypeOther[@name=\"My way of doing things\"]/following-sibling::XCUIElementTypeOther//XCUIElementTypeStaticText[@name]"
-}

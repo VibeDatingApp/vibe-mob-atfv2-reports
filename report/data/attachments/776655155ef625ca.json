@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//android.view.View[contains(@content-desc,\"What political preferences are you open to?\")]/android.widget.ImageView[@content-desc]"
-}

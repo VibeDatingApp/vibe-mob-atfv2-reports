@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//android.view.View[contains(@content-desc,\"Activities\")]/following-sibling::android.view.View[position() > 1 and @content-desc=\"Fun outdoor\"]"
-}

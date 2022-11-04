@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//XCUIElementTypeStaticText[contains(@name,\"Your age will be public\")]"
-}

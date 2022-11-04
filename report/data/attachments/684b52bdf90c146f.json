@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//android.view.View[contains(@content-desc,\"Choose words important to you in a relationship\")]//android.view.View[@content-desc]"
-}

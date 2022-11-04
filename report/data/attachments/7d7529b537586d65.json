@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//XCUIElementTypeCollectionView[@name=\"PhotosGridView\"]/XCUIElementTypeCell"
-}

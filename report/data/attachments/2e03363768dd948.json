@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//XCUIElementTypeOther[contains(@name,\"Accepted sport habits of my ideal match\")]/following-sibling::XCUIElementTypeImage[@name]"
-}

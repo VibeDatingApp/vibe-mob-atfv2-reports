@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//XCUIElementTypeOther[contains(@name,\"At home\") and contains(@name,\"Party animal\")]/following-sibling::XCUIElementTypeOther"
-}

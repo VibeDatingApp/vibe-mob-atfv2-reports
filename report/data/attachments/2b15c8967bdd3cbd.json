@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//android.widget.ImageView[contains(@content-desc,\"New version is available!\")]"
-}
